@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451249524278",
+    "project_id": "my-future-career-2ccc7",
+    "storage_bucket": "my-future-career-2ccc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451249524278:android:d0695053dd5f817ae3d297",
+        "android_client_info": {
+          "package_name": "hr.ferit.helenaborzan.my_future_career"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWvhk8nULFxmbJc9U_Eg3rwaAE-POXwQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

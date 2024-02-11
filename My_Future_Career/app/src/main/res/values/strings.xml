@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My_Future_Career</string>
+    <string name="title">MY FUTURE \n CAREER</string>
+    <string name="articleTitle1">CAREERS FOR \n CREATIVE MINDS</string>
+    <string name="articleTitle2">CAREERS FOR EXTROVERTS</string>
+    <string name="articleTitle3">CAREERS FOR INTROVERTS</string>
+    <string name="articleTitle4">CAREERS FOR SPORTS LOVERS</string>
+    <string name="findYourCareerButtonText">FIND YOUR FUTURE CAREER</string>
+    <string name="articlesTitle">RELATED ARTICLES</string>
+    <string name="backIcon">Return to previous page</string>
+    <string name="finishedQuiz">The perfect career for you is...</string>
+
+
+</resources>
